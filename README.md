@@ -1,7 +1,7 @@
 # paulorgb90.github.io
 **BIOGRAFIA PAULO RICARDO**
 A minha autobiografia
-## Sabia resumidamente sobre esse carinha!
+## Saiba resumidamente sobre esse carinha!
 Me chamo Paulo Ricardo, moro na cidade do Paranoá
 tenho 33 anos, nascido em Brasília, estou iniciando o curso de
 ### desenvolvedor de aplicativo para android pela Praxis,
